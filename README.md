@@ -1,2 +1,2 @@
 # test-repo
-Test ACcount
+Test Account
